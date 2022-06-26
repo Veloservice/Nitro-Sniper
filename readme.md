@@ -22,7 +22,7 @@
 
 
 ### 🧰 Support
-- Discord: https://discord.gg/toolstown
+- Discord: https://discord.gg/veloservice
 
 ##  
 
